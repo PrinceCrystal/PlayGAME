@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #F9C5C3;
+    background-color: hsl(2, 82%, 87%);
 }
 
 .header_text {
